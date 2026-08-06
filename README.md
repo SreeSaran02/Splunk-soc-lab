@@ -90,6 +90,8 @@ Used Hydra to brute-force RDP on port 3389 with the same wordlist as the SMB exe
 - Mapped all activity to the MITRE ATT&CK framework
 - Wrote professional incident reports using a 6-Question analyst framework, with severity justification, key observations, and remediation recommendations
 
+---
+
 ## 📫 Contact
 
 - **LinkedIn:** https://www.linkedin.com/in/sree-saran-s-s/
